@@ -1,0 +1,5 @@
+streamlit
+azure-core
+azure-ai-formrecognizer
+openai
+pandas
